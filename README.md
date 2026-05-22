@@ -26,6 +26,8 @@ The plugin stores data in markdown and YAML frontmatter. It does not use Obsidia
 
 ![A screenshot of custom commands added by Otherworld.](./docs/screenshots/command-palette.png)
 
+Map image attribution: the screenshots use a CC BY-NC-SA map image by Jonathan Roberts from Fantastic Maps, ["Free World Map"](http://www.fantasticmaps.com/2015/02/free-world-map/).
+
 ## What It Does
 
 - Detects map folders by convention.
